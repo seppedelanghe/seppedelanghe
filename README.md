@@ -1,4 +1,3 @@
 - 👋 I’m @seppedelanghe, a developer from Belgium
 - 👀 My intrests are in Data Science, reverse engineering, sports and all things AI
 - 👌 I'm in my element when I can use Python 🐍, but I am fluent when using JS, PHP, C# and Swift
-- 🌱 Currently I'm learning C++ and how to use tools like IDA and x64dbg
