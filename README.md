@@ -1,4 +1,4 @@
 - 👋 I’m @seppedelanghe, a developer from Belgium
 - 👀 My intrests are in Machine Learning, reverse engineering and sports
 - 👌 I'm in my element when I can use Python 🐍, but I am fluent when using JS, PHP, C# and Swift
-- 📚 Currently learning C and C++
+- 📚 Currently learning Go
